@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Butterfly Kiss",
+  "base_artist": "米倉千尋",
+  "createdAt": "2025-12-23T22:14:58.544844Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Butterfly Kiss (Album Version)",
+      "artist": "Hervé Vilard",
+      "has_synced": false,
+      "path": "select/01_Butterfly_Kiss_(Album_Version)_Hervé_Vilard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Butterfly Kiss",
+      "artist": "米倉千尋",
+      "has_synced": true,
+      "path": "select/02_Butterfly_Kiss_米倉千尋.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Butterfly Kiss",
+      "artist": "Chihiro Yonekura",
+      "has_synced": false,
+      "path": "select/03_Butterfly_Kiss_Chihiro_Yonekura.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Butterfly Kiss",
+      "artist": "Chihiro Yonekura",
+      "has_synced": true,
+      "path": "select/04_Butterfly_Kiss_Chihiro_Yonekura.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Butterfly Kiss",
+      "artist": "米倉千尋",
+      "has_synced": true,
+      "path": "select/05_Butterfly_Kiss_米倉千尋.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Butterfly Kiss",
+      "artist": "Hervé Vilard",
+      "has_synced": false,
+      "path": "select/06_Butterfly_Kiss_Hervé_Vilard.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Butterfly Kiss",
+      "artist": "The Apartments",
+      "has_synced": false,
+      "path": "select/07_Butterfly_Kiss_The_Apartments.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Butterfly Kiss",
+      "artist": "米倉千尋",
+      "has_synced": true,
+      "path": "select/08_Butterfly_Kiss_米倉千尋.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Butterfly Kiss",
+      "artist": "米倉 千尋",
+      "has_synced": false,
+      "path": "select/pl_01_Butterfly_Kiss_米倉_千尋.txt"
+    }
+  ]
+}
